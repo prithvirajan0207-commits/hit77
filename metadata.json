@@ -1,0 +1,6 @@
+{
+  "name": "Sakhi Saheli - Rural Women Schemes & Skills Voice Assistant",
+  "description": "Simple, voice-enabled rural assistance tool empowering Indian women to discover government schemes, skills, loans, and livelihood opportunities in their mother tongue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
